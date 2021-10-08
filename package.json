@@ -1,17 +1,36 @@
 {
+  "homepage": "http://adrianauch.github.io/portfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@apollo/client": "^3.4.15",
+    "@babel/plugin-syntax-jsx": "^7.14.5",
+    "@babel/preset-react": "^7.14.5",
+    "@emotion/react": "^11.4.1",
+    "@mui/material": "^5.0.2",
+    "@react-icons/all-files": "^4.1.0",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "bootstrap": "^5.1.2",
+    "graphql": "^15.6.0",
+    "i": "^0.3.7",
+    "npm": "^7.24.2",
     "react": "^17.0.2",
+    "react-bootstrap": "^2.0.0-rc.0",
     "react-dom": "^17.0.2",
+    "react-favicon": "0.0.23",
+    "react-icons": "^4.3.1",
+    "react-router-dom": "^5.3.0",
     "react-scripts": "4.0.3",
+    "reactstrap": "^8.10.0",
+    "styled-components": "^5.3.1",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -34,5 +53,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
