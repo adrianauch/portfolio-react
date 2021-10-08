@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/portfolio/static/js/main.91b9c2b3.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.91b9c2b3.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.37da8305.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.37da8305.js.map",
+    "static/css/2.0f1110e3.chunk.css": "/portfolio/static/css/2.0f1110e3.chunk.css",
+    "static/js/2.d0e4b88e.chunk.js": "/portfolio/static/js/2.d0e4b88e.chunk.js",
+    "static/js/2.d0e4b88e.chunk.js.map": "/portfolio/static/js/2.d0e4b88e.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.0f1110e3.chunk.css.map": "/portfolio/static/css/2.0f1110e3.chunk.css.map",
+    "static/js/2.d0e4b88e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.d0e4b88e.chunk.js.LICENSE.txt",
+    "static/media/Delishery.8ea58b6e.png": "/portfolio/static/media/Delishery.8ea58b6e.png",
+    "static/media/NFTy.acc02911.png": "/portfolio/static/media/NFTy.acc02911.png",
+    "static/media/Weatherdash.fead18d9.png": "/portfolio/static/media/Weatherdash.fead18d9.png",
+    "static/media/hoempage.0cdfeca0.png": "/portfolio/static/media/hoempage.0cdfeca0.png",
+    "static/media/me1.42473cdb.jpg": "/portfolio/static/media/me1.42473cdb.jpg",
+    "static/media/passwordgen.2c587710.png": "/portfolio/static/media/passwordgen.2c587710.png",
+    "static/media/teamprofilegen.8f0e5a75.png": "/portfolio/static/media/teamprofilegen.8f0e5a75.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37da8305.js",
+    "static/css/2.0f1110e3.chunk.css",
+    "static/js/2.d0e4b88e.chunk.js",
+    "static/js/main.91b9c2b3.chunk.js"
+  ]
+}
